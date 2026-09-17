@@ -1,0 +1,721 @@
+﻿date,indicator,value,unit,memo,source_id
+2016-01,base_rate,1.5,%,,bok_ecos
+2016-01,gold_usd,1098.0,USD/troy oz,,worldbank_pink_sheet
+2016-01,inflation_yoy,0.6223386832623579,% YoY,,bok_ecos
+2016-01,kospi,1912.06,1980-01-04=100,,bok_ecos
+2016-01,unemployment,3.6,% SA,,bok_ecos
+2016-01,usdkrw,1201.67,KRW/USD,,bok_ecos
+2016-02,base_rate,1.5,%,,bok_ecos
+2016-02,gold_usd,1200.0,USD/troy oz,,worldbank_pink_sheet
+2016-02,inflation_yoy,1.1132608075105521,% YoY,,bok_ecos
+2016-02,kospi,1916.66,1980-01-04=100,,bok_ecos
+2016-02,unemployment,3.8,% SA,,bok_ecos
+2016-02,usdkrw,1217.35,KRW/USD,,bok_ecos
+2016-03,base_rate,1.5,%,,bok_ecos
+2016-03,gold_usd,1245.0,USD/troy oz,,worldbank_pink_sheet
+2016-03,inflation_yoy,0.8425303395492412,% YoY,,bok_ecos
+2016-03,kospi,1995.85,1980-01-04=100,,bok_ecos
+2016-03,unemployment,3.7,% SA,,bok_ecos
+2016-03,usdkrw,1188.21,KRW/USD,,bok_ecos
+2016-04,base_rate,1.5,%,,bok_ecos
+2016-04,gold_usd,1242.0,USD/troy oz,,worldbank_pink_sheet
+2016-04,inflation_yoy,1.0018494055482163,% YoY,,bok_ecos
+2016-04,kospi,1994.15,1980-01-04=100,,bok_ecos
+2016-04,unemployment,3.6,% SA,,bok_ecos
+2016-04,usdkrw,1147.51,KRW/USD,,bok_ecos
+2016-05,base_rate,1.5,%,,bok_ecos
+2016-05,gold_usd,1261.0,USD/troy oz,,worldbank_pink_sheet
+2016-05,inflation_yoy,0.7798503530403567,% YoY,,bok_ecos
+2016-05,kospi,1983.4,1980-01-04=100,,bok_ecos
+2016-05,unemployment,3.5,% SA,,bok_ecos
+2016-05,usdkrw,1171.51,KRW/USD,,bok_ecos
+2016-06,base_rate,1.25,%,,bok_ecos
+2016-06,gold_usd,1276.0,USD/troy oz,,worldbank_pink_sheet
+2016-06,inflation_yoy,0.7396558808964393,% YoY,,bok_ecos
+2016-06,kospi,1970.35,1980-01-04=100,,bok_ecos
+2016-06,unemployment,3.6,% SA,,bok_ecos
+2016-06,usdkrw,1170.5,KRW/USD,,bok_ecos
+2016-07,base_rate,1.25,%,,bok_ecos
+2016-07,gold_usd,1337.0,USD/troy oz,,worldbank_pink_sheet
+2016-07,inflation_yoy,0.3691628102650446,% YoY,,bok_ecos
+2016-07,kospi,2016.19,1980-01-04=100,,bok_ecos
+2016-07,unemployment,3.6,% SA,,bok_ecos
+2016-07,usdkrw,1144.09,KRW/USD,,bok_ecos
+2016-08,base_rate,1.25,%,,bok_ecos
+2016-08,gold_usd,1340.0,USD/troy oz,,worldbank_pink_sheet
+2016-08,inflation_yoy,0.4873284110363141,% YoY,,bok_ecos
+2016-08,kospi,2034.65,1980-01-04=100,,bok_ecos
+2016-08,unemployment,3.9,% SA,,bok_ecos
+2016-08,usdkrw,1111.68,KRW/USD,,bok_ecos
+2016-09,base_rate,1.25,%,,bok_ecos
+2016-09,gold_usd,1327.0,USD/troy oz,,worldbank_pink_sheet
+2016-09,inflation_yoy,1.3489038182086244,% YoY,,bok_ecos
+2016-09,kospi,2043.63,1980-01-04=100,,bok_ecos
+2016-09,unemployment,3.9,% SA,,bok_ecos
+2016-09,usdkrw,1107.49,KRW/USD,,bok_ecos
+2016-10,base_rate,1.25,%,,bok_ecos
+2016-10,gold_usd,1267.0,USD/troy oz,,worldbank_pink_sheet
+2016-10,inflation_yoy,1.4879009329654913,% YoY,,bok_ecos
+2016-10,kospi,2008.19,1980-01-04=100,,bok_ecos
+2016-10,unemployment,3.8,% SA,,bok_ecos
+2016-10,usdkrw,1125.28,KRW/USD,,bok_ecos
+2016-11,base_rate,1.25,%,,bok_ecos
+2016-11,gold_usd,1238.0,USD/troy oz,,worldbank_pink_sheet
+2016-11,inflation_yoy,1.5308167872892575,% YoY,,bok_ecos
+2016-11,kospi,1983.48,1980-01-04=100,,bok_ecos
+2016-11,unemployment,3.7,% SA,,bok_ecos
+2016-11,usdkrw,1161.64,KRW/USD,,bok_ecos
+2016-12,base_rate,1.25,%,,bok_ecos
+2016-12,gold_usd,1157.0,USD/troy oz,,worldbank_pink_sheet
+2016-12,inflation_yoy,1.3379615020511215,% YoY,,bok_ecos
+2016-12,kospi,2026.46,1980-01-04=100,,bok_ecos
+2016-12,unemployment,3.5,% SA,,bok_ecos
+2016-12,usdkrw,1182.28,KRW/USD,,bok_ecos
+2017-01,base_rate,1.25,%,,bok_ecos
+2017-01,gold_usd,1192.0,USD/troy oz,,worldbank_pink_sheet
+2017-01,inflation_yoy,2.2408434139784994,% YoY,,bok_ecos
+2017-01,kospi,2067.57,1980-01-04=100,,bok_ecos
+2017-01,unemployment,3.5,% SA,,bok_ecos
+2017-01,usdkrw,1185.1,KRW/USD,,bok_ecos
+2017-02,base_rate,1.25,%,,bok_ecos
+2017-02,gold_usd,1234.0,USD/troy oz,,worldbank_pink_sheet
+2017-02,inflation_yoy,2.0828105395232166,% YoY,,bok_ecos
+2017-02,kospi,2091.64,1980-01-04=100,,bok_ecos
+2017-02,unemployment,3.9,% SA,,bok_ecos
+2017-02,usdkrw,1144.92,KRW/USD,,bok_ecos
+2017-03,base_rate,1.25,%,,bok_ecos
+2017-03,gold_usd,1231.0,USD/troy oz,,worldbank_pink_sheet
+2017-03,inflation_yoy,2.27689662763515,% YoY,,bok_ecos
+2017-03,kospi,2160.23,1980-01-04=100,,bok_ecos
+2017-03,unemployment,3.6,% SA,,bok_ecos
+2017-03,usdkrw,1134.77,KRW/USD,,bok_ecos
+2017-04,base_rate,1.25,%,,bok_ecos
+2017-04,gold_usd,1267.0,USD/troy oz,,worldbank_pink_sheet
+2017-04,inflation_yoy,1.9555732267481307,% YoY,,bok_ecos
+2017-04,kospi,2205.44,1980-01-04=100,,bok_ecos
+2017-04,unemployment,3.8,% SA,,bok_ecos
+2017-04,usdkrw,1132.73,KRW/USD,,bok_ecos
+2017-05,base_rate,1.25,%,,bok_ecos
+2017-05,gold_usd,1246.0,USD/troy oz,,worldbank_pink_sheet
+2017-05,inflation_yoy,2.0035553696538866,% YoY,,bok_ecos
+2017-05,kospi,2347.38,1980-01-04=100,,bok_ecos
+2017-05,unemployment,3.5,% SA,,bok_ecos
+2017-05,usdkrw,1125.28,KRW/USD,,bok_ecos
+2017-06,base_rate,1.25,%,,bok_ecos
+2017-06,gold_usd,1260.0,USD/troy oz,,worldbank_pink_sheet
+2017-06,inflation_yoy,1.806277520368993,% YoY,,bok_ecos
+2017-06,kospi,2391.79,1980-01-04=100,,bok_ecos
+2017-06,unemployment,3.7,% SA,,bok_ecos
+2017-06,usdkrw,1130.04,KRW/USD,,bok_ecos
+2017-07,base_rate,1.25,%,,bok_ecos
+2017-07,gold_usd,1237.0,USD/troy oz,,worldbank_pink_sheet
+2017-07,inflation_yoy,2.167010719787066,% YoY,,bok_ecos
+2017-07,kospi,2402.71,1980-01-04=100,,bok_ecos
+2017-07,unemployment,3.6,% SA,,bok_ecos
+2017-07,usdkrw,1134.4,KRW/USD,,bok_ecos
+2017-08,base_rate,1.25,%,,bok_ecos
+2017-08,gold_usd,1283.0,USD/troy oz,,worldbank_pink_sheet
+2017-08,inflation_yoy,2.4885813727437034,% YoY,,bok_ecos
+2017-08,kospi,2363.19,1980-01-04=100,,bok_ecos
+2017-08,unemployment,4.0,% SA,,bok_ecos
+2017-08,usdkrw,1130.79,KRW/USD,,bok_ecos
+2017-09,base_rate,1.25,%,,bok_ecos
+2017-09,gold_usd,1314.0,USD/troy oz,,worldbank_pink_sheet
+2017-09,inflation_yoy,2.0000623396053907,% YoY,,bok_ecos
+2017-09,kospi,2394.47,1980-01-04=100,,bok_ecos
+2017-09,unemployment,3.7,% SA,,bok_ecos
+2017-09,usdkrw,1131.59,KRW/USD,,bok_ecos
+2017-10,base_rate,1.25,%,,bok_ecos
+2017-10,gold_usd,1280.0,USD/troy oz,,worldbank_pink_sheet
+2017-10,inflation_yoy,1.76179458180723,% YoY,,bok_ecos
+2017-10,kospi,2523.43,1980-01-04=100,,bok_ecos
+2017-10,unemployment,3.7,% SA,,bok_ecos
+2017-10,usdkrw,1131.57,KRW/USD,,bok_ecos
+2017-11,base_rate,1.5,%,,bok_ecos
+2017-11,gold_usd,1282.0,USD/troy oz,,worldbank_pink_sheet
+2017-11,inflation_yoy,1.1534025374855927,% YoY,,bok_ecos
+2017-11,kospi,2476.37,1980-01-04=100,,bok_ecos
+2017-11,unemployment,3.7,% SA,,bok_ecos
+2017-11,usdkrw,1105.04,KRW/USD,,bok_ecos
+2017-12,base_rate,1.5,%,,bok_ecos
+2017-12,gold_usd,1264.0,USD/troy oz,,worldbank_pink_sheet
+2017-12,inflation_yoy,1.4074858317244754,% YoY,,bok_ecos
+2017-12,kospi,2467.49,1980-01-04=100,,bok_ecos
+2017-12,unemployment,3.6,% SA,,bok_ecos
+2017-12,usdkrw,1085.78,KRW/USD,,bok_ecos
+2018-01,base_rate,1.5,%,,bok_ecos
+2018-01,gold_usd,1331.0,USD/troy oz,,worldbank_pink_sheet
+2018-01,inflation_yoy,0.7600188977671785,% YoY,,bok_ecos
+2018-01,kospi,2566.46,1980-01-04=100,,bok_ecos
+2018-01,unemployment,3.4,% SA,,bok_ecos
+2018-01,usdkrw,1066.7,KRW/USD,,bok_ecos
+2018-02,base_rate,1.5,%,,bok_ecos
+2018-02,gold_usd,1331.0,USD/troy oz,,worldbank_pink_sheet
+2018-02,inflation_yoy,1.2526630612913703,% YoY,,bok_ecos
+2018-02,kospi,2427.36,1980-01-04=100,,bok_ecos
+2018-02,unemployment,3.7,% SA,,bok_ecos
+2018-02,usdkrw,1079.58,KRW/USD,,bok_ecos
+2018-03,base_rate,1.5,%,,bok_ecos
+2018-03,gold_usd,1325.0,USD/troy oz,,worldbank_pink_sheet
+2018-03,inflation_yoy,1.2155998565059223,% YoY,,bok_ecos
+2018-03,kospi,2445.85,1980-01-04=100,,bok_ecos
+2018-03,unemployment,4.0,% SA,,bok_ecos
+2018-03,usdkrw,1071.89,KRW/USD,,bok_ecos
+2018-04,base_rate,1.5,%,,bok_ecos
+2018-04,gold_usd,1335.0,USD/troy oz,,worldbank_pink_sheet
+2018-04,inflation_yoy,1.528088503930558,% YoY,,bok_ecos
+2018-04,kospi,2515.38,1980-01-04=100,,bok_ecos
+2018-04,unemployment,3.8,% SA,,bok_ecos
+2018-04,usdkrw,1067.76,KRW/USD,,bok_ecos
+2018-05,base_rate,1.5,%,,bok_ecos
+2018-05,gold_usd,1303.0,USD/troy oz,,worldbank_pink_sheet
+2018-05,inflation_yoy,1.469050499251634,% YoY,,bok_ecos
+2018-05,kospi,2423.01,1980-01-04=100,,bok_ecos
+2018-05,unemployment,3.8,% SA,,bok_ecos
+2018-05,usdkrw,1076.39,KRW/USD,,bok_ecos
+2018-06,base_rate,1.5,%,,bok_ecos
+2018-06,gold_usd,1282.0,USD/troy oz,,worldbank_pink_sheet
+2018-06,inflation_yoy,1.4804084735663414,% YoY,,bok_ecos
+2018-06,kospi,2326.13,1980-01-04=100,,bok_ecos
+2018-06,unemployment,3.6,% SA,,bok_ecos
+2018-06,usdkrw,1092.8,KRW/USD,,bok_ecos
+2018-07,base_rate,1.5,%,,bok_ecos
+2018-07,gold_usd,1238.0,USD/troy oz,,worldbank_pink_sheet
+2018-07,inflation_yoy,1.118985835752162,% YoY,,bok_ecos
+2018-07,kospi,2295.26,1980-01-04=100,,bok_ecos
+2018-07,unemployment,3.8,% SA,,bok_ecos
+2018-07,usdkrw,1122.8,KRW/USD,,bok_ecos
+2018-08,base_rate,1.5,%,,bok_ecos
+2018-08,gold_usd,1202.0,USD/troy oz,,worldbank_pink_sheet
+2018-08,inflation_yoy,1.4318056660343803,% YoY,,bok_ecos
+2018-08,kospi,2322.88,1980-01-04=100,,bok_ecos
+2018-08,unemployment,4.6,% SA,,bok_ecos
+2018-08,usdkrw,1121.15,KRW/USD,,bok_ecos
+2018-09,base_rate,1.5,%,,bok_ecos
+2018-09,gold_usd,1198.0,USD/troy oz,,worldbank_pink_sheet
+2018-09,inflation_yoy,2.0871531597604243,% YoY,,bok_ecos
+2018-09,kospi,2343.07,1980-01-04=100,,bok_ecos
+2018-09,unemployment,4.1,% SA,,bok_ecos
+2018-09,usdkrw,1120.6,KRW/USD,,bok_ecos
+2018-10,base_rate,1.5,%,,bok_ecos
+2018-10,gold_usd,1215.0,USD/troy oz,,worldbank_pink_sheet
+2018-10,inflation_yoy,2.002508233326883,% YoY,,bok_ecos
+2018-10,kospi,2029.69,1980-01-04=100,,bok_ecos
+2018-10,unemployment,4.0,% SA,,bok_ecos
+2018-10,usdkrw,1130.81,KRW/USD,,bok_ecos
+2018-11,base_rate,1.75,%,,bok_ecos
+2018-11,gold_usd,1221.0,USD/troy oz,,worldbank_pink_sheet
+2018-11,inflation_yoy,2.037042743998274,% YoY,,bok_ecos
+2018-11,kospi,2096.86,1980-01-04=100,,bok_ecos
+2018-11,unemployment,3.9,% SA,,bok_ecos
+2018-11,usdkrw,1128.58,KRW/USD,,bok_ecos
+2018-12,base_rate,1.75,%,,bok_ecos
+2018-12,gold_usd,1250.0,USD/troy oz,,worldbank_pink_sheet
+2018-12,inflation_yoy,1.320395504513927,% YoY,,bok_ecos
+2018-12,kospi,2041.04,1980-01-04=100,,bok_ecos
+2018-12,unemployment,3.7,% SA,,bok_ecos
+2018-12,usdkrw,1122.9,KRW/USD,,bok_ecos
+2019-01,base_rate,1.75,%,,bok_ecos
+2019-01,gold_usd,1292.0,USD/troy oz,,worldbank_pink_sheet
+2019-01,inflation_yoy,0.7930197949157058,% YoY,,bok_ecos
+2019-01,kospi,2204.85,1980-01-04=100,,bok_ecos
+2019-01,unemployment,3.9,% SA,,bok_ecos
+2019-01,usdkrw,1122.0,KRW/USD,,bok_ecos
+2019-02,base_rate,1.75,%,,bok_ecos
+2019-02,gold_usd,1320.0,USD/troy oz,,worldbank_pink_sheet
+2019-02,inflation_yoy,0.46128167518082464,% YoY,,bok_ecos
+2019-02,kospi,2195.44,1980-01-04=100,,bok_ecos
+2019-02,unemployment,3.8,% SA,,bok_ecos
+2019-02,usdkrw,1122.45,KRW/USD,,bok_ecos
+2019-03,base_rate,1.75,%,,bok_ecos
+2019-03,gold_usd,1301.0,USD/troy oz,,worldbank_pink_sheet
+2019-03,inflation_yoy,0.3746797500784771,% YoY,,bok_ecos
+2019-03,kospi,2140.67,1980-01-04=100,,bok_ecos
+2019-03,unemployment,3.8,% SA,,bok_ecos
+2019-03,usdkrw,1130.72,KRW/USD,,bok_ecos
+2019-04,base_rate,1.75,%,,bok_ecos
+2019-04,gold_usd,1286.0,USD/troy oz,,worldbank_pink_sheet
+2019-04,inflation_yoy,0.5559430310013935,% YoY,,bok_ecos
+2019-04,kospi,2203.59,1980-01-04=100,,bok_ecos
+2019-04,unemployment,4.0,% SA,,bok_ecos
+2019-04,usdkrw,1140.95,KRW/USD,,bok_ecos
+2019-05,base_rate,1.75,%,,bok_ecos
+2019-05,gold_usd,1284.0,USD/troy oz,,worldbank_pink_sheet
+2019-05,inflation_yoy,0.6799422099637242,% YoY,,bok_ecos
+2019-05,kospi,2041.74,1980-01-04=100,,bok_ecos
+2019-05,unemployment,3.8,% SA,,bok_ecos
+2019-05,usdkrw,1183.29,KRW/USD,,bok_ecos
+2019-06,base_rate,1.75,%,,bok_ecos
+2019-06,gold_usd,1359.0,USD/troy oz,,worldbank_pink_sheet
+2019-06,inflation_yoy,0.7208009799653858,% YoY,,bok_ecos
+2019-06,kospi,2130.62,1980-01-04=100,,bok_ecos
+2019-06,unemployment,3.9,% SA,,bok_ecos
+2019-06,usdkrw,1175.62,KRW/USD,,bok_ecos
+2019-07,base_rate,1.5,%,,bok_ecos
+2019-07,gold_usd,1413.0,USD/troy oz,,worldbank_pink_sheet
+2019-07,inflation_yoy,0.6055380870270799,% YoY,,bok_ecos
+2019-07,kospi,2024.55,1980-01-04=100,,bok_ecos
+2019-07,unemployment,4.0,% SA,,bok_ecos
+2019-07,usdkrw,1175.31,KRW/USD,,bok_ecos
+2019-08,base_rate,1.5,%,,bok_ecos
+2019-08,gold_usd,1500.0,USD/troy oz,,worldbank_pink_sheet
+2019-08,inflation_yoy,-0.037200136735648925,% YoY,,bok_ecos
+2019-08,kospi,1967.79,1980-01-04=100,,bok_ecos
+2019-08,unemployment,3.6,% SA,,bok_ecos
+2019-08,usdkrw,1208.98,KRW/USD,,bok_ecos
+2019-09,base_rate,1.5,%,,bok_ecos
+2019-09,gold_usd,1511.0,USD/troy oz,,worldbank_pink_sheet
+2019-09,inflation_yoy,-0.42605841091188923,% YoY,,bok_ecos
+2019-09,kospi,2063.05,1980-01-04=100,,bok_ecos
+2019-09,unemployment,3.6,% SA,,bok_ecos
+2019-09,usdkrw,1197.55,KRW/USD,,bok_ecos
+2019-10,base_rate,1.25,%,,bok_ecos
+2019-10,gold_usd,1495.0,USD/troy oz,,worldbank_pink_sheet
+2019-10,inflation_yoy,0.0,% YoY,,bok_ecos
+2019-10,kospi,2083.48,1980-01-04=100,,bok_ecos
+2019-10,unemployment,3.5,% SA,,bok_ecos
+2019-10,usdkrw,1184.13,KRW/USD,,bok_ecos
+2019-11,base_rate,1.25,%,,bok_ecos
+2019-11,gold_usd,1471.0,USD/troy oz,,worldbank_pink_sheet
+2019-11,inflation_yoy,0.15201852411155237,% YoY,,bok_ecos
+2019-11,kospi,2087.96,1980-01-04=100,,bok_ecos
+2019-11,unemployment,3.7,% SA,,bok_ecos
+2019-11,usdkrw,1167.45,KRW/USD,,bok_ecos
+2019-12,base_rate,1.25,%,,bok_ecos
+2019-12,gold_usd,1479.0,USD/troy oz,,worldbank_pink_sheet
+2019-12,inflation_yoy,0.73847335030508,% YoY,,bok_ecos
+2019-12,kospi,2197.67,1980-01-04=100,,bok_ecos
+2019-12,unemployment,3.5,% SA,,bok_ecos
+2019-12,usdkrw,1175.84,KRW/USD,,bok_ecos
+2020-01,base_rate,1.25,%,,bok_ecos
+2020-01,gold_usd,1561.0,USD/troy oz,,worldbank_pink_sheet
+2020-01,inflation_yoy,1.2196108571659758,% YoY,,bok_ecos
+2020-01,kospi,2119.01,1980-01-04=100,,bok_ecos
+2020-01,unemployment,3.4,% SA,,bok_ecos
+2020-01,usdkrw,1164.28,KRW/USD,,bok_ecos
+2020-02,base_rate,1.25,%,,bok_ecos
+2020-02,gold_usd,1597.0,USD/troy oz,,worldbank_pink_sheet
+2020-02,inflation_yoy,0.8548901934327446,% YoY,,bok_ecos
+2020-02,kospi,1987.01,1980-01-04=100,,bok_ecos
+2020-02,unemployment,3.4,% SA,,bok_ecos
+2020-02,usdkrw,1193.79,KRW/USD,,bok_ecos
+2020-03,base_rate,0.75,%,,bok_ecos
+2020-03,gold_usd,1592.0,USD/troy oz,,worldbank_pink_sheet
+2020-03,inflation_yoy,0.8262628504555058,% YoY,,bok_ecos
+2020-03,kospi,1754.64,1980-01-04=100,,bok_ecos
+2020-03,unemployment,3.9,% SA,,bok_ecos
+2020-03,usdkrw,1220.09,KRW/USD,,bok_ecos
+2020-04,base_rate,0.75,%,,bok_ecos
+2020-04,gold_usd,1683.0,USD/troy oz,,worldbank_pink_sheet
+2020-04,inflation_yoy,0.019099124455923544,% YoY,,bok_ecos
+2020-04,kospi,1947.56,1980-01-04=100,,bok_ecos
+2020-04,unemployment,3.9,% SA,,bok_ecos
+2020-04,usdkrw,1225.23,KRW/USD,,bok_ecos
+2020-05,base_rate,0.5,%,,bok_ecos
+2020-05,gold_usd,1716.0,USD/troy oz,,worldbank_pink_sheet
+2020-05,inflation_yoy,-0.212740336370576,% YoY,,bok_ecos
+2020-05,kospi,2029.6,1980-01-04=100,,bok_ecos
+2020-05,unemployment,4.3,% SA,,bok_ecos
+2020-05,usdkrw,1228.67,KRW/USD,,bok_ecos
+2020-06,base_rate,0.5,%,,bok_ecos
+2020-06,gold_usd,1732.0,USD/troy oz,,worldbank_pink_sheet
+2020-06,inflation_yoy,0.22012041290166984,% YoY,,bok_ecos
+2020-06,kospi,2108.33,1980-01-04=100,,bok_ecos
+2020-06,unemployment,4.2,% SA,,bok_ecos
+2020-06,usdkrw,1210.01,KRW/USD,,bok_ecos
+2020-07,base_rate,0.5,%,,bok_ecos
+2020-07,gold_usd,1847.0,USD/troy oz,,worldbank_pink_sheet
+2020-07,inflation_yoy,0.44663111093188324,% YoY,,bok_ecos
+2020-07,kospi,2249.37,1980-01-04=100,,bok_ecos
+2020-07,unemployment,4.2,% SA,,bok_ecos
+2020-07,usdkrw,1198.9,KRW/USD,,bok_ecos
+2020-08,base_rate,0.5,%,,bok_ecos
+2020-08,gold_usd,1969.0,USD/troy oz,,worldbank_pink_sheet
+2020-08,inflation_yoy,0.7694241890872533,% YoY,,bok_ecos
+2020-08,kospi,2326.17,1980-01-04=100,,bok_ecos
+2020-08,unemployment,3.9,% SA,,bok_ecos
+2020-08,usdkrw,1186.85,KRW/USD,,bok_ecos
+2020-09,base_rate,0.5,%,,bok_ecos
+2020-09,gold_usd,1922.0,USD/troy oz,,worldbank_pink_sheet
+2020-09,inflation_yoy,0.9479527827324308,% YoY,,bok_ecos
+2020-09,kospi,2327.89,1980-01-04=100,,bok_ecos
+2020-09,unemployment,4.2,% SA,,bok_ecos
+2020-09,usdkrw,1178.8,KRW/USD,,bok_ecos
+2020-10,base_rate,0.5,%,,bok_ecos
+2020-10,gold_usd,1900.0,USD/troy oz,,worldbank_pink_sheet
+2020-10,inflation_yoy,0.1389430333563313,% YoY,,bok_ecos
+2020-10,kospi,2267.15,1980-01-04=100,,bok_ecos
+2020-10,unemployment,4.3,% SA,,bok_ecos
+2020-10,usdkrw,1144.68,KRW/USD,,bok_ecos
+2020-11,base_rate,0.5,%,,bok_ecos
+2020-11,gold_usd,1866.0,USD/troy oz,,worldbank_pink_sheet
+2020-11,inflation_yoy,0.6121771996662861,% YoY,,bok_ecos
+2020-11,kospi,2591.34,1980-01-04=100,,bok_ecos
+2020-11,unemployment,4.1,% SA,,bok_ecos
+2020-11,usdkrw,1116.76,KRW/USD,,bok_ecos
+2020-12,base_rate,0.5,%,,bok_ecos
+2020-12,gold_usd,1858.0,USD/troy oz,,worldbank_pink_sheet
+2020-12,inflation_yoy,0.6127217481121994,% YoY,,bok_ecos
+2020-12,kospi,2873.47,1980-01-04=100,,bok_ecos
+2020-12,unemployment,4.1,% SA,,bok_ecos
+2020-12,usdkrw,1095.13,KRW/USD,,bok_ecos
+2021-01,base_rate,0.5,%,,bok_ecos
+2021-01,gold_usd,1867.0,USD/troy oz,,worldbank_pink_sheet
+2021-01,inflation_yoy,0.9491457688080684,% YoY,,bok_ecos
+2021-01,kospi,2976.21,1980-01-04=100,,bok_ecos
+2021-01,unemployment,4.6,% SA,,bok_ecos
+2021-01,usdkrw,1097.49,KRW/USD,,bok_ecos
+2021-02,base_rate,0.5,%,,bok_ecos
+2021-02,gold_usd,1808.0,USD/troy oz,,worldbank_pink_sheet
+2021-02,inflation_yoy,1.417731629392982,% YoY,,bok_ecos
+2021-02,kospi,3012.95,1980-01-04=100,,bok_ecos
+2021-02,unemployment,4.1,% SA,,bok_ecos
+2021-02,usdkrw,1111.72,KRW/USD,,bok_ecos
+2021-03,base_rate,0.5,%,,bok_ecos
+2021-03,gold_usd,1718.0,USD/troy oz,,worldbank_pink_sheet
+2021-03,inflation_yoy,1.9011406844106515,% YoY,,bok_ecos
+2021-03,kospi,3061.42,1980-01-04=100,,bok_ecos
+2021-03,unemployment,4.0,% SA,,bok_ecos
+2021-03,usdkrw,1131.02,KRW/USD,,bok_ecos
+2021-04,base_rate,0.5,%,,bok_ecos
+2021-04,gold_usd,1760.0,USD/troy oz,,worldbank_pink_sheet
+2021-04,inflation_yoy,2.492462311557797,% YoY,,bok_ecos
+2021-04,kospi,3147.86,1980-01-04=100,,bok_ecos
+2021-04,unemployment,3.8,% SA,,bok_ecos
+2021-04,usdkrw,1119.4,KRW/USD,,bok_ecos
+2021-05,base_rate,0.5,%,,bok_ecos
+2021-05,gold_usd,1850.0,USD/troy oz,,worldbank_pink_sheet
+2021-05,inflation_yoy,2.62469831053902,% YoY,,bok_ecos
+2021-05,kospi,3203.92,1980-01-04=100,,bok_ecos
+2021-05,unemployment,3.8,% SA,,bok_ecos
+2021-05,usdkrw,1123.28,KRW/USD,,bok_ecos
+2021-06,base_rate,0.5,%,,bok_ecos
+2021-06,gold_usd,1835.0,USD/troy oz,,worldbank_pink_sheet
+2021-06,inflation_yoy,2.3468057366362594,% YoY,,bok_ecos
+2021-06,kospi,3296.68,1980-01-04=100,,bok_ecos
+2021-06,unemployment,3.7,% SA,,bok_ecos
+2021-06,usdkrw,1121.3,KRW/USD,,bok_ecos
+2021-07,base_rate,0.5,%,,bok_ecos
+2021-07,gold_usd,1808.0,USD/troy oz,,worldbank_pink_sheet
+2021-07,inflation_yoy,2.6397671384121413,% YoY,,bok_ecos
+2021-07,kospi,3202.32,1980-01-04=100,,bok_ecos
+2021-07,unemployment,3.3,% SA,,bok_ecos
+2021-07,usdkrw,1143.98,KRW/USD,,bok_ecos
+2021-08,base_rate,0.75,%,,bok_ecos
+2021-08,gold_usd,1785.0,USD/troy oz,,worldbank_pink_sheet
+2021-08,inflation_yoy,2.555145224074251,% YoY,,bok_ecos
+2021-08,kospi,3199.27,1980-01-04=100,,bok_ecos
+2021-08,unemployment,3.4,% SA,,bok_ecos
+2021-08,usdkrw,1160.34,KRW/USD,,bok_ecos
+2021-09,base_rate,0.75,%,,bok_ecos
+2021-09,gold_usd,1775.0,USD/troy oz,,worldbank_pink_sheet
+2021-09,inflation_yoy,2.4121500893389047,% YoY,,bok_ecos
+2021-09,kospi,3068.82,1980-01-04=100,,bok_ecos
+2021-09,unemployment,3.1,% SA,,bok_ecos
+2021-09,usdkrw,1169.54,KRW/USD,,bok_ecos
+2021-10,base_rate,0.75,%,,bok_ecos
+2021-10,gold_usd,1777.0,USD/troy oz,,worldbank_pink_sheet
+2021-10,inflation_yoy,3.164304252345773,% YoY,,bok_ecos
+2021-10,kospi,2970.68,1980-01-04=100,,bok_ecos
+2021-10,unemployment,3.3,% SA,,bok_ecos
+2021-10,usdkrw,1182.82,KRW/USD,,bok_ecos
+2021-11,base_rate,1.0,%,,bok_ecos
+2021-11,gold_usd,1822.0,USD/troy oz,,worldbank_pink_sheet
+2021-11,inflation_yoy,3.776601059046869,% YoY,,bok_ecos
+2021-11,kospi,2839.01,1980-01-04=100,,bok_ecos
+2021-11,unemployment,3.1,% SA,,bok_ecos
+2021-11,usdkrw,1182.91,KRW/USD,,bok_ecos
+2021-12,base_rate,1.0,%,,bok_ecos
+2021-12,gold_usd,1790.0,USD/troy oz,,worldbank_pink_sheet
+2021-12,inflation_yoy,3.6977972690122707,% YoY,,bok_ecos
+2021-12,kospi,2977.65,1980-01-04=100,,bok_ecos
+2021-12,unemployment,3.2,% SA,,bok_ecos
+2021-12,usdkrw,1183.7,KRW/USD,,bok_ecos
+2022-01,base_rate,1.25,%,,bok_ecos
+2022-01,gold_usd,1816.0,USD/troy oz,,worldbank_pink_sheet
+2022-01,inflation_yoy,3.7707838479809963,% YoY,,bok_ecos
+2022-01,kospi,2663.34,1980-01-04=100,,bok_ecos
+2022-01,unemployment,3.2,% SA,,bok_ecos
+2022-01,usdkrw,1194.01,KRW/USD,,bok_ecos
+2022-02,base_rate,1.25,%,,bok_ecos
+2022-02,gold_usd,1856.0,USD/troy oz,,worldbank_pink_sheet
+2022-02,inflation_yoy,3.780271707028948,% YoY,,bok_ecos
+2022-02,kospi,2699.18,1980-01-04=100,,bok_ecos
+2022-02,unemployment,2.9,% SA,,bok_ecos
+2022-02,usdkrw,1198.34,KRW/USD,,bok_ecos
+2022-03,base_rate,1.25,%,,bok_ecos
+2022-03,gold_usd,1948.0,USD/troy oz,,worldbank_pink_sheet
+2022-03,inflation_yoy,4.183032207384119,% YoY,,bok_ecos
+2022-03,kospi,2757.65,1980-01-04=100,,bok_ecos
+2022-03,unemployment,2.8,% SA,,bok_ecos
+2022-03,usdkrw,1221.03,KRW/USD,,bok_ecos
+2022-04,base_rate,1.5,%,,bok_ecos
+2022-04,gold_usd,1937.0,USD/troy oz,,worldbank_pink_sheet
+2022-04,inflation_yoy,4.755834477348486,% YoY,,bok_ecos
+2022-04,kospi,2695.05,1980-01-04=100,,bok_ecos
+2022-04,unemployment,2.8,% SA,,bok_ecos
+2022-04,usdkrw,1232.34,KRW/USD,,bok_ecos
+2022-05,base_rate,1.75,%,,bok_ecos
+2022-05,gold_usd,1849.0,USD/troy oz,,worldbank_pink_sheet
+2022-05,inflation_yoy,5.340519353258211,% YoY,,bok_ecos
+2022-05,kospi,2685.9,1980-01-04=100,,bok_ecos
+2022-05,unemployment,2.9,% SA,,bok_ecos
+2022-05,usdkrw,1269.88,KRW/USD,,bok_ecos
+2022-06,base_rate,1.75,%,,bok_ecos
+2022-06,gold_usd,1837.0,USD/troy oz,,worldbank_pink_sheet
+2022-06,inflation_yoy,6.036256736893675,% YoY,,bok_ecos
+2022-06,kospi,2332.64,1980-01-04=100,,bok_ecos
+2022-06,unemployment,2.9,% SA,,bok_ecos
+2022-06,usdkrw,1277.35,KRW/USD,,bok_ecos
+2022-07,base_rate,2.25,%,,bok_ecos
+2022-07,gold_usd,1733.0,USD/troy oz,,worldbank_pink_sheet
+2022-07,inflation_yoy,6.327009583414833,% YoY,,bok_ecos
+2022-07,kospi,2451.5,1980-01-04=100,,bok_ecos
+2022-07,unemployment,3.0,% SA,,bok_ecos
+2022-07,usdkrw,1307.4,KRW/USD,,bok_ecos
+2022-08,base_rate,2.5,%,,bok_ecos
+2022-08,gold_usd,1765.0,USD/troy oz,,worldbank_pink_sheet
+2022-08,inflation_yoy,5.722627737226271,% YoY,,bok_ecos
+2022-08,kospi,2472.05,1980-01-04=100,,bok_ecos
+2022-08,unemployment,2.8,% SA,,bok_ecos
+2022-08,usdkrw,1318.44,KRW/USD,,bok_ecos
+2022-09,base_rate,2.5,%,,bok_ecos
+2022-09,gold_usd,1681.0,USD/troy oz,,worldbank_pink_sheet
+2022-09,inflation_yoy,5.476398177764841,% YoY,,bok_ecos
+2022-09,kospi,2155.49,1980-01-04=100,,bok_ecos
+2022-09,unemployment,2.9,% SA,,bok_ecos
+2022-09,usdkrw,1391.59,KRW/USD,,bok_ecos
+2022-10,base_rate,3.0,%,,bok_ecos
+2022-10,gold_usd,1664.0,USD/troy oz,,worldbank_pink_sheet
+2022-10,inflation_yoy,5.621673923560722,% YoY,,bok_ecos
+2022-10,kospi,2293.61,1980-01-04=100,,bok_ecos
+2022-10,unemployment,2.9,% SA,,bok_ecos
+2022-10,usdkrw,1426.66,KRW/USD,,bok_ecos
+2022-11,base_rate,3.25,%,,bok_ecos
+2022-11,gold_usd,1725.0,USD/troy oz,,worldbank_pink_sheet
+2022-11,inflation_yoy,5.0062578222778376,% YoY,,bok_ecos
+2022-11,kospi,2472.53,1980-01-04=100,,bok_ecos
+2022-11,unemployment,2.8,% SA,,bok_ecos
+2022-11,usdkrw,1364.1,KRW/USD,,bok_ecos
+2022-12,base_rate,3.25,%,,bok_ecos
+2022-12,gold_usd,1798.0,USD/troy oz,,worldbank_pink_sheet
+2022-12,inflation_yoy,5.017301038062283,% YoY,,bok_ecos
+2022-12,kospi,2236.4,1980-01-04=100,,bok_ecos
+2022-12,unemployment,2.7,% SA,,bok_ecos
+2022-12,usdkrw,1296.22,KRW/USD,,bok_ecos
+2023-01,base_rate,3.5,%,,bok_ecos
+2023-01,gold_usd,1898.0,USD/troy oz,,worldbank_pink_sheet
+2023-01,inflation_yoy,4.978540772532192,% YoY,,bok_ecos
+2023-01,kospi,2425.08,1980-01-04=100,,bok_ecos
+2023-01,unemployment,2.7,% SA,,bok_ecos
+2023-01,usdkrw,1247.25,KRW/USD,,bok_ecos
+2023-02,base_rate,3.5,%,,bok_ecos
+2023-02,gold_usd,1855.0,USD/troy oz,,worldbank_pink_sheet
+2023-02,inflation_yoy,4.6575602352494805,% YoY,,bok_ecos
+2023-02,kospi,2412.85,1980-01-04=100,,bok_ecos
+2023-02,unemployment,2.7,% SA,,bok_ecos
+2023-02,usdkrw,1270.74,KRW/USD,,bok_ecos
+2023-03,base_rate,3.5,%,,bok_ecos
+2023-03,gold_usd,1913.0,USD/troy oz,,worldbank_pink_sheet
+2023-03,inflation_yoy,4.165881244109326,% YoY,,bok_ecos
+2023-03,kospi,2476.86,1980-01-04=100,,bok_ecos
+2023-03,unemployment,2.7,% SA,,bok_ecos
+2023-03,usdkrw,1305.73,KRW/USD,,bok_ecos
+2023-04,base_rate,3.5,%,,bok_ecos
+2023-04,gold_usd,2000.0,USD/troy oz,,worldbank_pink_sheet
+2023-04,inflation_yoy,3.6881025929046185,% YoY,,bok_ecos
+2023-04,kospi,2501.53,1980-01-04=100,,bok_ecos
+2023-04,unemployment,2.6,% SA,,bok_ecos
+2023-04,usdkrw,1320.01,KRW/USD,,bok_ecos
+2023-05,base_rate,3.5,%,,bok_ecos
+2023-05,gold_usd,1992.0,USD/troy oz,,worldbank_pink_sheet
+2023-05,inflation_yoy,3.3767441860464986,% YoY,,bok_ecos
+2023-05,kospi,2577.12,1980-01-04=100,,bok_ecos
+2023-05,unemployment,2.5,% SA,,bok_ecos
+2023-05,usdkrw,1328.21,KRW/USD,,bok_ecos
+2023-06,base_rate,3.5,%,,bok_ecos
+2023-06,gold_usd,1943.0,USD/troy oz,,worldbank_pink_sheet
+2023-06,inflation_yoy,2.7261805748082457,% YoY,,bok_ecos
+2023-06,kospi,2564.28,1980-01-04=100,,bok_ecos
+2023-06,unemployment,2.6,% SA,,bok_ecos
+2023-06,usdkrw,1296.71,KRW/USD,,bok_ecos
+2023-07,base_rate,3.5,%,,bok_ecos
+2023-07,gold_usd,1951.0,USD/troy oz,,worldbank_pink_sheet
+2023-07,inflation_yoy,2.3544559919065566,% YoY,,bok_ecos
+2023-07,kospi,2632.58,1980-01-04=100,,bok_ecos
+2023-07,unemployment,2.9,% SA,,bok_ecos
+2023-07,usdkrw,1286.3,KRW/USD,,bok_ecos
+2023-08,base_rate,3.5,%,,bok_ecos
+2023-08,gold_usd,1919.0,USD/troy oz,,worldbank_pink_sheet
+2023-08,inflation_yoy,3.3600294577925016,% YoY,,bok_ecos
+2023-08,kospi,2556.27,1980-01-04=100,,bok_ecos
+2023-08,unemployment,2.7,% SA,,bok_ecos
+2023-08,usdkrw,1318.47,KRW/USD,,bok_ecos
+2023-09,base_rate,3.5,%,,bok_ecos
+2023-09,gold_usd,1916.0,USD/troy oz,,worldbank_pink_sheet
+2023-09,inflation_yoy,3.703363352324951,% YoY,,bok_ecos
+2023-09,kospi,2465.07,1980-01-04=100,,bok_ecos
+2023-09,unemployment,2.8,% SA,,bok_ecos
+2023-09,usdkrw,1329.47,KRW/USD,,bok_ecos
+2023-10,base_rate,3.5,%,,bok_ecos
+2023-10,gold_usd,1916.0,USD/troy oz,,worldbank_pink_sheet
+2023-10,inflation_yoy,3.765115426896304,% YoY,,bok_ecos
+2023-10,kospi,2277.99,1980-01-04=100,,bok_ecos
+2023-10,unemployment,2.6,% SA,,bok_ecos
+2023-10,usdkrw,1350.69,KRW/USD,,bok_ecos
+2023-11,base_rate,3.5,%,,bok_ecos
+2023-11,gold_usd,1984.0,USD/troy oz,,worldbank_pink_sheet
+2023-11,inflation_yoy,3.3098010452003335,% YoY,,bok_ecos
+2023-11,kospi,2535.29,1980-01-04=100,,bok_ecos
+2023-11,unemployment,2.8,% SA,,bok_ecos
+2023-11,usdkrw,1310.39,KRW/USD,,bok_ecos
+2023-12,base_rate,3.5,%,,bok_ecos
+2023-12,gold_usd,2026.0,USD/troy oz,,worldbank_pink_sheet
+2023-12,inflation_yoy,3.1759106717920593,% YoY,,bok_ecos
+2023-12,kospi,2655.28,1980-01-04=100,,bok_ecos
+2023-12,unemployment,2.8,% SA,,bok_ecos
+2023-12,usdkrw,1303.98,KRW/USD,,bok_ecos
+2024-01,base_rate,3.5,%,,bok_ecos
+2024-01,gold_usd,2034.0,USD/troy oz,,worldbank_pink_sheet
+2024-01,inflation_yoy,2.816389570273481,% YoY,,bok_ecos
+2024-01,kospi,2497.09,1980-01-04=100,,bok_ecos
+2024-01,unemployment,2.8,% SA,,bok_ecos
+2024-01,usdkrw,1323.57,KRW/USD,,bok_ecos
+2024-02,base_rate,3.5,%,,bok_ecos
+2024-02,gold_usd,2023.0,USD/troy oz,,worldbank_pink_sheet
+2024-02,inflation_yoy,3.1269826882987406,% YoY,,bok_ecos
+2024-02,kospi,2642.36,1980-01-04=100,,bok_ecos
+2024-02,unemployment,2.7,% SA,,bok_ecos
+2024-02,usdkrw,1331.74,KRW/USD,,bok_ecos
+2024-03,base_rate,3.5,%,,bok_ecos
+2024-03,gold_usd,2158.0,USD/troy oz,,worldbank_pink_sheet
+2024-03,inflation_yoy,3.1035106768005916,% YoY,,bok_ecos
+2024-03,kospi,2746.63,1980-01-04=100,,bok_ecos
+2024-03,unemployment,2.8,% SA,,bok_ecos
+2024-03,usdkrw,1330.69,KRW/USD,,bok_ecos
+2024-04,base_rate,3.5,%,,bok_ecos
+2024-04,gold_usd,2331.0,USD/troy oz,,worldbank_pink_sheet
+2024-04,inflation_yoy,2.9249796876410716,% YoY,,bok_ecos
+2024-04,kospi,2692.06,1980-01-04=100,,bok_ecos
+2024-04,unemployment,2.8,% SA,,bok_ecos
+2024-04,usdkrw,1367.83,KRW/USD,,bok_ecos
+2024-05,base_rate,3.5,%,,bok_ecos
+2024-05,gold_usd,2351.0,USD/troy oz,,worldbank_pink_sheet
+2024-05,inflation_yoy,2.672545667236559,% YoY,,bok_ecos
+2024-05,kospi,2636.52,1980-01-04=100,,bok_ecos
+2024-05,unemployment,2.8,% SA,,bok_ecos
+2024-05,usdkrw,1365.39,KRW/USD,,bok_ecos
+2024-06,base_rate,3.5,%,,bok_ecos
+2024-06,gold_usd,2326.0,USD/troy oz,,worldbank_pink_sheet
+2024-06,inflation_yoy,2.4109391867578323,% YoY,,bok_ecos
+2024-06,kospi,2797.82,1980-01-04=100,,bok_ecos
+2024-06,unemployment,2.8,% SA,,bok_ecos
+2024-06,usdkrw,1380.13,KRW/USD,,bok_ecos
+2024-07,base_rate,3.5,%,,bok_ecos
+2024-07,gold_usd,2398.0,USD/troy oz,,worldbank_pink_sheet
+2024-07,inflation_yoy,2.5518914547578264,% YoY,,bok_ecos
+2024-07,kospi,2770.69,1980-01-04=100,,bok_ecos
+2024-07,unemployment,2.7,% SA,,bok_ecos
+2024-07,usdkrw,1383.38,KRW/USD,,bok_ecos
+2024-08,base_rate,3.5,%,,bok_ecos
+2024-08,gold_usd,2470.0,USD/troy oz,,worldbank_pink_sheet
+2024-08,inflation_yoy,2.012825080156766,% YoY,,bok_ecos
+2024-08,kospi,2674.31,1980-01-04=100,,bok_ecos
+2024-08,unemployment,2.6,% SA,,bok_ecos
+2024-08,usdkrw,1354.15,KRW/USD,,bok_ecos
+2024-09,base_rate,3.5,%,,bok_ecos
+2024-09,gold_usd,2571.0,USD/troy oz,,worldbank_pink_sheet
+2024-09,inflation_yoy,1.5950376606114425,% YoY,,bok_ecos
+2024-09,kospi,2593.27,1980-01-04=100,,bok_ecos
+2024-09,unemployment,2.6,% SA,,bok_ecos
+2024-09,usdkrw,1334.82,KRW/USD,,bok_ecos
+2024-10,base_rate,3.25,%,,bok_ecos
+2024-10,gold_usd,2690.0,USD/troy oz,,worldbank_pink_sheet
+2024-10,inflation_yoy,1.2536417409728884,% YoY,,bok_ecos
+2024-10,kospi,2556.15,1980-01-04=100,,bok_ecos
+2024-10,unemployment,2.8,% SA,,bok_ecos
+2024-10,usdkrw,1361.0,KRW/USD,,bok_ecos
+2024-11,base_rate,3.0,%,,bok_ecos
+2024-11,gold_usd,2651.0,USD/troy oz,,worldbank_pink_sheet
+2024-11,inflation_yoy,1.5264465743698885,% YoY,,bok_ecos
+2024-11,kospi,2455.91,1980-01-04=100,,bok_ecos
+2024-11,unemployment,2.8,% SA,,bok_ecos
+2024-11,usdkrw,1393.38,KRW/USD,,bok_ecos
+2024-12,base_rate,3.0,%,,bok_ecos
+2024-12,gold_usd,2648.0,USD/troy oz,,worldbank_pink_sheet
+2024-12,inflation_yoy,1.9338241816730273,% YoY,,bok_ecos
+2024-12,kospi,2399.49,1980-01-04=100,,bok_ecos
+2024-12,unemployment,3.1,% SA,,bok_ecos
+2024-12,usdkrw,1434.42,KRW/USD,,bok_ecos
+2025-01,base_rate,3.0,%,,bok_ecos
+2025-01,gold_usd,2710.0,USD/troy oz,,worldbank_pink_sheet
+2025-01,inflation_yoy,2.2444110630025493,% YoY,,bok_ecos
+2025-01,kospi,2517.37,1980-01-04=100,,bok_ecos
+2025-01,unemployment,2.8,% SA,,bok_ecos
+2025-01,usdkrw,1455.79,KRW/USD,,bok_ecos
+2025-02,base_rate,2.75,%,,bok_ecos
+2025-02,gold_usd,2895.0,USD/troy oz,,worldbank_pink_sheet
+2025-02,inflation_yoy,2.0214448936544116,% YoY,,bok_ecos
+2025-02,kospi,2532.78,1980-01-04=100,,bok_ecos
+2025-02,unemployment,2.8,% SA,,bok_ecos
+2025-02,usdkrw,1445.56,KRW/USD,,bok_ecos
+2025-03,base_rate,2.75,%,,bok_ecos
+2025-03,gold_usd,2983.0,USD/troy oz,,worldbank_pink_sheet
+2025-03,inflation_yoy,2.0535322509872778,% YoY,,bok_ecos
+2025-03,kospi,2481.12,1980-01-04=100,,bok_ecos
+2025-03,unemployment,2.8,% SA,,bok_ecos
+2025-03,usdkrw,1456.95,KRW/USD,,bok_ecos
+2025-04,base_rate,2.75,%,,bok_ecos
+2025-04,gold_usd,3218.0,USD/troy oz,,worldbank_pink_sheet
+2025-04,inflation_yoy,2.0787650206122166,% YoY,,bok_ecos
+2025-04,kospi,2556.61,1980-01-04=100,,bok_ecos
+2025-04,unemployment,2.7,% SA,,bok_ecos
+2025-04,usdkrw,1444.31,KRW/USD,,bok_ecos
+2025-05,base_rate,2.5,%,,bok_ecos
+2025-05,gold_usd,3309.0,USD/troy oz,,worldbank_pink_sheet
+2025-05,inflation_yoy,1.9018404907975572,% YoY,,bok_ecos
+2025-05,kospi,2697.67,1980-01-04=100,,bok_ecos
+2025-05,unemployment,2.7,% SA,,bok_ecos
+2025-05,usdkrw,1394.49,KRW/USD,,bok_ecos
+2025-06,base_rate,2.5,%,,bok_ecos
+2025-06,gold_usd,3353.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-06,inflation_yoy,2.169711876317648,% YoY,,bok_ecos
+2025-06,kospi,3071.7,1980-01-04=100,,bok_ecos
+2025-06,unemployment,2.7,% SA,,bok_ecos
+2025-06,usdkrw,1366.95,KRW/USD,,bok_ecos
+2025-07,base_rate,2.5,%,,bok_ecos
+2025-07,gold_usd,3340.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-07,inflation_yoy,2.0941032156313044,% YoY,,bok_ecos
+2025-07,kospi,3245.44,1980-01-04=100,,bok_ecos
+2025-07,unemployment,2.7,% SA,,bok_ecos
+2025-07,usdkrw,1375.22,KRW/USD,,bok_ecos
+2025-08,base_rate,2.5,%,,bok_ecos
+2025-08,gold_usd,3368.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-08,inflation_yoy,1.6675397241138423,% YoY,,bok_ecos
+2025-08,kospi,3186.01,1980-01-04=100,,bok_ecos
+2025-08,unemployment,2.8,% SA,,bok_ecos
+2025-08,usdkrw,1389.66,KRW/USD,,bok_ecos
+2025-09,base_rate,2.5,%,,bok_ecos
+2025-09,gold_usd,3668.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-09,inflation_yoy,2.1020497165285645,% YoY,,bok_ecos
+2025-09,kospi,3424.6,1980-01-04=100,,bok_ecos
+2025-09,unemployment,2.7,% SA,,bok_ecos
+2025-09,usdkrw,1391.83,KRW/USD,,bok_ecos
+2025-10,base_rate,2.5,%,,bok_ecos
+2025-10,gold_usd,4058.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-10,inflation_yoy,2.3803295840962635,% YoY,,bok_ecos
+2025-10,kospi,4107.5,1980-01-04=100,,bok_ecos
+2025-10,unemployment,2.7,% SA,,bok_ecos
+2025-10,usdkrw,1423.36,KRW/USD,,bok_ecos
+2025-11,base_rate,2.5,%,,bok_ecos
+2025-11,gold_usd,4087.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-11,inflation_yoy,2.447552447552437,% YoY,,bok_ecos
+2025-11,kospi,3926.59,1980-01-04=100,,bok_ecos
+2025-11,unemployment,2.8,% SA,,bok_ecos
+2025-11,usdkrw,1457.77,KRW/USD,,bok_ecos
+2025-12,base_rate,2.5,%,,bok_ecos
+2025-12,gold_usd,4309.0,USD/troy oz,Gold pricing definition changed June 2025; see World Bank Description,worldbank_pink_sheet
+2025-12,inflation_yoy,2.3148551039944287,% YoY,,bok_ecos
+2025-12,kospi,4214.17,1980-01-04=100,,bok_ecos
+2025-12,unemployment,3.3,% SA,,bok_ecos
+2025-12,usdkrw,1467.4,KRW/USD,,bok_ecos

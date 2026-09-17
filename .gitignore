@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.vercel/
+tmp/
+data/raw/
+*.pem
+*service-account*.json

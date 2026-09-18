@@ -7,7 +7,7 @@
 - 출처: [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md)
 - 검증/제출 상태: [docs/acceptance.md](docs/acceptance.md)
 - 보너스 제출용 화면과 시연 시나리오: [docs/DASHBOARD_DEMO.md](docs/DASHBOARD_DEMO.md)
-- 공개 배포 URL: 아직 없음. 로컬 대시보드 구현 상태.
+- 공개 배포 URL: https://m1-1-eta.vercel.app/
 - 후속 AI 서비스 저장소: https://github.com/leeds86/m1-2
 
 ## 실행

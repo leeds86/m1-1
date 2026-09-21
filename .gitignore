@@ -8,5 +8,13 @@ __pycache__/
 .vercel/
 tmp/
 data/raw/
+.agents/
+m1-1미션.pdf
+src/
+tests/
+docs/
+notebooks/
+data/processed/
+images/dashboard/
 *.pem
 *service-account*.json

@@ -1,52 +1,104 @@
 # 경제를 읽는 첫걸음
 
-초보 투자자를 위한 2016~2025년 경제지표·KOSPI 관계 분석. Python 분석과 순수 HTML/CSS/JavaScript 대시보드로 구성한다.
+금리·환율·KOSPI·금·물가·실업률의 2016~2025년 월별 움직임을 초보 투자자의 눈높이에서 살펴본 프로젝트입니다.
 
-- 분석 리포트: [REPORT.md](REPORT.md)
-- 재현 노트북: [notebooks/analysis.ipynb](notebooks/analysis.ipynb)
-- 출처: [docs/DATA_SOURCES.md](docs/DATA_SOURCES.md)
-- 검증/제출 상태: [docs/acceptance.md](docs/acceptance.md)
-- 보너스 제출용 화면과 시연 시나리오: [docs/DASHBOARD_DEMO.md](docs/DASHBOARD_DEMO.md)
-- 공개 배포 URL: https://m1-1-eta.vercel.app/
-- 후속 AI 서비스 저장소: https://github.com/leeds86/m1-2
+## 최종 결과물
 
-## 실행
+1. **분석 리포트:** [REPORT.md](REPORT.md)
+2. **시각화:** [images](images) 폴더의 그래프 13개와 REPORT의 설명
+3. **Python 코드:** [analysis.py](analysis.py)
+4. **GitHub 저장소:** 코드, 데이터, 리포트와 실행 방법을 함께 보관
 
-Python 3.10 이상을 설치한 뒤 프로젝트 루트에서 실행한다. 아래는 Windows PowerShell 예시다.
+보너스 과제로 웹 대시보드도 만들었습니다: https://m1-1-eta.vercel.app/
+
+## 가장 먼저 볼 파일
+
+- 분석 내용과 결론을 읽으려면 `REPORT.md`
+- 계산 과정을 확인하거나 다시 실행하려면 `analysis.py`
+- 원본으로 사용한 월별 값을 확인하려면 `data/economic_indicators_monthly.csv`
+- 대시보드 파일을 확인하려면 `web/`
+
+## 과제를 설명할 때의 순서
+
+1. **질문:** 주가가 움직일 때 금리·환율·금·물가·실업률은 어떻게 움직였는지 알아보고 싶었습니다.
+2. **자료:** 2016~2025년의 월별 공식 자료 120개월을 같은 날짜에 맞췄습니다.
+3. **방법:** 장기 흐름, 월간 변화, 상관관계, 주식 하락기와 위기 전후를 차례로 비교했습니다.
+4. **발견:** 달러는 KOSPI와 반대로 움직인 경우가 비교적 많았지만, 금과 달러 모두 주식과 함께 하락한 달도 있었습니다.
+5. **결론:** 지표 하나로 시장을 설명하기 어렵고, 성격이 다른 자산과 경제 상황을 함께 살펴볼 필요가 있음을 알 수 있었습니다.
+
+이 다섯 문장을 중심으로 설명한 뒤, 질문을 받으면 REPORT의 해당 그래프와 표를 보여주면 됩니다.
+
+## 폴더 구조
+
+```text
+m1-1/
+├── README.md                         # 프로젝트와 실행 방법
+├── REPORT.md                         # 최종 분석 리포트
+├── analysis.py                       # 전체 분석 코드
+├── requirements.txt                  # 필요한 Python 라이브러리
+├── data/
+│   └── economic_indicators_monthly.csv
+├── images/                            # 리포트 그래프 13개
+└── web/                               # 보너스 웹 대시보드
+```
+
+## 분석을 다시 실행하는 방법
+
+Python 3.10 이상이 필요합니다. 프로젝트 폴더에서 아래 명령을 순서대로 실행합니다.
 
 ```powershell
 python -m venv .venv
 .venv/Scripts/python.exe -m pip install -r requirements.txt
-.venv/Scripts/python.exe -m pytest -q
+.venv/Scripts/python.exe analysis.py
+```
+
+`analysis.py`는 다음 작업을 순서대로 수행합니다.
+
+1. 월별 데이터 121개(변화 계산용 2015-12 포함)를 읽습니다.
+2. 빠진 달·중복 날짜·잘못된 값을 확인합니다.
+3. 가격 변화율과 금리·물가·실업률의 차이를 계산합니다.
+4. 상관관계, 금리 변화 구간, 사건 전후, 환율 분해와 예측을 계산합니다.
+5. `images/`의 그래프 13개와 `web/data/`의 대시보드 자료를 만듭니다.
+
+웹 화면을 로컬에서 보려면 다음 명령을 실행하고 http://127.0.0.1:8765 를 엽니다.
+
+```powershell
 .venv/Scripts/python.exe -m http.server 8765 --bind 127.0.0.1 --directory web
 ```
 
-브라우저에서 http://127.0.0.1:8765 를 연다. 웹 화면에 API 키는 필요하지 않다.
+## 데이터 출처
 
-## 원본 수집 및 분석 재생성
+분석 기간은 2016-01~2025-12이며, 첫 달의 변화를 계산하기 위해 2015-12 값도 포함했습니다.
 
-`.env.example`을 `.env`로 복사하고 한국은행 ECOS 키를 로컬에 입력한다. 키는 커밋하거나 프론트엔드에 넣지 않는다.
+| 지표 | 출처와 항목 | 사용 기준 |
+|---|---|---|
+| 기준금리 | 한국은행 ECOS `722Y001 / 0101000` | 월말 값 |
+| 원/달러 환율 | 한국은행 ECOS `731Y004 / 0000001 / 0000100` | 월평균 |
+| KOSPI | 한국은행 ECOS `901Y014 / 1070000` | 월말 종가 |
+| 소비자물가지수 | 한국은행 ECOS `901Y009 / 0` | 전년 같은 달 대비 상승률로 계산 |
+| 실업률 | 한국은행 ECOS `901Y027 / I61BC / I28B` | 계절조정 월별 값 |
+| 금 가격 | World Bank Pink Sheet, Gold | 달러/트로이온스 월평균 |
 
-```powershell
-.venv/Scripts/python.exe -m src.collect_data
-.venv/Scripts/python.exe -m src.clean_data
-.venv/Scripts/python.exe -m src.export
-```
+- 한국은행 ECOS: https://ecos.bok.or.kr/
+- World Bank Commodity Markets: https://www.worldbank.org/en/research/commodity-markets
 
-수집 원본과 SHA256은 data/raw에 남는다. 통합 CSV는 data/processed, 공개 화면용 결과는 web/data, 보고서 그래프는 images에 생성된다. export는 REPORT.md와 실행 전 노트북도 재생성하므로 수작업 편집은 생성 코드에 반영해야 한다. 노트북은 VS Code의 Python 커널을 `.venv`로 선택해 위에서 아래로 실행할 수 있다.
+공개 데이터는 2026-09-17에 수집했습니다. 금 가격은 2025-06부터 산정 기준이 바뀌었습니다. 현재 저장소에는 분석에 사용한 정리된 CSV를 포함했으며 API 인증키와 수집 원본은 포함하지 않았습니다.
 
-## Vercel 설정
+## 분석할 때 주의한 점
 
-새 프로젝트에 이 GitHub 저장소를 연결한다. Framework Preset은 Other, Root Directory는 저장소 루트, Output Directory는 web이다. Python 분석을 Vercel에서 실행하지 않는다. 분석 결과를 로컬에서 생성한 뒤 배포한다. 공개 폴더에는 HTML/CSS/JS와 정제 결과만 포함한다. ECOS_API_KEY를 Vercel 환경 변수로 등록할 필요가 없다.
+- 가격 지표는 월간 변화율(%), 금리·물가·실업률은 전월과의 차이(%p)를 비교했습니다.
+- 상관관계는 두 지표가 함께 움직인 정도이며 원인과 결과를 증명하지 않습니다.
+- KOSPI는 배당을 포함하지 않고, 금·환율은 월평균이라 실제 투자 수익률과 다를 수 있습니다.
+- 사건 전후 분석은 다른 사건과 정책의 영향을 분리하지 못합니다.
+- 환율 예측은 방법을 학습하기 위한 과거 실험이며 현재 전망이 아닙니다.
 
-## 화면에서 확인할 것
+## 보너스 과제
 
-기간·지표·원본/변화율·금리 변동 달 필터를 변경하면 통계와 상관행렬이 바뀐다. 제외된 달은 그래프에서 연결하지 않는다. 분해·예측·시차·사건 분석은 전체 기간 고정이며 화면에 명시한다. CSV 다운로드는 선택된 기간과 금리 조건에 맞는 6개 지표의 원본 값을 제공한다.
-
-## 해석 범위
-
-상관은 인과나 매매 신호가 아니다. 가격 지표는 변화율, 금리·물가상승률·실업률은 퍼센트포인트 차이를 쓴다. 금 가격은 2025-06 정의가 바뀌었다. 예측은 2025-12 기준 과거 실험이다. 공개 원본의 개정과 월평균/월말 집계 차이가 있다.
+- `web/`에 기간·지표·금리 변화 조건을 바꿀 수 있는 대시보드를 만들었습니다.
+- 공개 URL: https://m1-1-eta.vercel.app/
+- 환율을 장기 흐름·계절 움직임·나머지 움직임으로 나누는 STL 분해를 수행했습니다.
+- 마지막 값 유지와 단순 지수평활 방법으로 1·3·6개월 뒤 환율을 과거 자료에서 시험했습니다.
 
 ## 데이터 이용 범위
 
-무료·비상업적 교육용 프로젝트다. ECOS 제공 사실과 World Bank 금 자료의 CC BY 4.0 라이선스, 수집일 및 계산/가공 내용을 표시한다. 원본 제공기관은 이 분석을 보증하지 않는다. 유료화·광고 등 상업적 전환 시 ECOS 타 기관 자료의 승인을 별도로 확인해야 한다. 자세한 근거는 DATA_SOURCES.md에 기록했다.
+무료·비상업적 교육용 프로젝트입니다. 데이터 제공기관은 이 분석 결과를 보증하지 않습니다. 금 자료는 World Bank의 CC BY 4.0 조건을 따릅니다. 상업적으로 사용할 경우 각 제공기관의 최신 이용 조건을 다시 확인해야 합니다.
